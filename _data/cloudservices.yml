@@ -1909,7 +1909,7 @@ services:
       - huawei:
           - name: CodeArts
             ref: https://www.huaweicloud.com/intl/en-us/product/devcloud.html
-            icon: codearts.png      
+            icon: devcloud.svg      
           - name: DevStar
             ref: https://developer.huaweicloud.com/resource/devstar.html
             icon: devstar.png
