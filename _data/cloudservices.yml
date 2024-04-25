@@ -2623,13 +2623,13 @@ services:
             ref:
             icon:
       - alibaba:
-          - name:
-            ref:
-            icon:
+          - name: IDaaS
+            ref: https://www.alibabacloud.com/zh/product/identity-as-a-service-idaas
+            icon: idaas.svg
       - huawei:
-          - name:
-            ref:
-            icon:
+          - name: OneAccess
+            ref: https://www.huaweicloud.com/product/oneaccess.html
+            icon: oneaccess.svg
 
   - category: Security, Identity & Compliance
     categoryurl:
