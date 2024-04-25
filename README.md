@@ -8,8 +8,6 @@ The project is open sourced to let fellow Cloud Architects, IT Pros, Developers 
 
 Copy from [Ilyas_IT83 CloudComparer](https://github.com/ilyas-it83/CloudComparer/) and updated cloud services.
 
-See also the list of [contributors](https://github.com/ilyas-it83/CloudComparer/graphs/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
