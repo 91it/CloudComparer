@@ -13,6 +13,3 @@ A simple comparison chart of all the cloud services offered by the major public 
 * All the definition & benefits of services mentioned in this presentation are sourced from the respective cloud providers websites and documentations.
 * For any queries or issues, please raise an issue here
 * Listing doesn't include third party services offered through cloud market places.
-
-You can find the source code of this comparison:
-[Public Cloud Comparison](https://github.com/ilyas-it83/CloudComparer/)
