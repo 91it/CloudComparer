@@ -1,5 +1,5 @@
-<a href="https://ilyas-it83.github.io/CloudComparer/">
-    <img src="https://github.com/ilyas-it83/CloudComparer/blob/master/img/Logo2.png" alt="Compare Cloud" title="Compare Cloud" align="right" height="180" />
+<a href="https://github.com/91it/CloudComparer/">
+    <img src="https://github.com/91it/CloudComparer/blob/master/img/Logo2.png" alt="Compare Cloud" title="Compare Cloud" align="right" height="180" />
 </a>
 
 # Cloud Comparer
@@ -15,7 +15,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Ilyas_IT83** - *Initial work* - [CloudComparer](https://github.com/ilyas-it83/CloudComparer/)
+Copy from [Ilyas_IT83 CloudComparer](https://github.com/ilyas-it83/CloudComparer/) and updated cloud services.
 
 See also the list of [contributors](https://github.com/ilyas-it83/CloudComparer/graphs/contributors) who participated in this project.
 
