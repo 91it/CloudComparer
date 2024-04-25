@@ -1907,6 +1907,9 @@ services:
             ref:
             icon: none.png
       - huawei:
+          - name: CodeArts
+            ref: https://www.huaweicloud.com/intl/en-us/product/devcloud.html
+            icon: codearts.png      
           - name: DevStar
             ref: https://developer.huaweicloud.com/resource/devstar.html
             icon: devstar.png
