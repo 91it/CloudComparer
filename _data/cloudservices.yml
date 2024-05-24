@@ -2927,8 +2927,8 @@ services:
             ref:
             icon: Firewall.png
       - google:
-          - name:
-            ref:
+          - name: Google Cloud Armor
+            ref: https://cloud.google.com/security/products/armor
             icon: none.png
       - ibm:
           - name: Internet Services
@@ -2963,25 +2963,25 @@ services:
             ref: https://azure.microsoft.com/services/firewall-manager/
             icon: none.png
       - google:
-          - name:
-            ref:
+          - name: Cloud NGFW
+            ref: https://cloud.google.com/security/products/firewall
             icon: none.png
       - ibm:
           - name: Security and Compliance Center
             ref: https://cloud.ibm.com/docs/security-compliance?topic=security-compliance-getting-started
             icon: ibmcloud.png
       - oracle:
-          - name:
-            ref:
+          - name: Network Firewall
+            ref: https://www.oracle.com/cloud/networking/network-firewall/
             icon: none.png
       - alibaba:
-          - name:
-            ref:
-            icon: none.png
+          - name: Cloud Firewall
+            ref: https://www.alibabacloud.com/en/product/cfw
+            icon: cfw.svg
       - huawei:
-          - name: Security Compliance
-            ref: https://www.huaweicloud.com/intl/en-us/securecenter/safetycompliance.html
-            icon: none.png
+          - name: Cloud Firewall (CFW)
+            ref: https://www.huaweicloud.com/intl/en-us/product/cfw.html
+            icon: cfw.svg           
   - category: Security, Identity & Compliance
     categoryurl:
     subcategory: Security & Compliance Service
@@ -3008,10 +3008,13 @@ services:
             ref: https://docs.oracle.com/en-us/iaas/Content/ComplianceDocuments/Concepts/compliancedocsoverview.htm
             icon: none.png
       - alibaba:
-          - name: "Alibaba Truster Center "
+          - name: Alibaba Truster Center
             ref: https://www.alibabacloud.com/trust-center
             icon: alibaba.png
-
+      - huawei:
+          - name: Security Compliance
+            ref: https://www.huaweicloud.com/intl/en-us/securecenter/safetycompliance.html
+            icon: none.png
   - category: Security, Identity & Compliance
     categoryurl:
     subcategory: Sensitive Data discovery and protection
@@ -4625,9 +4628,9 @@ services:
             ref: https://azure.microsoft.com/services/communication-services/
             icon: none.png
       - google:
-          - name:
-            ref:
-            icon: none.png
+          - name: Google Meet
+            ref: https://meet.google.com/
+            icon: google-meet.svg
       - ibm:
           - name:
             ref:
@@ -4637,13 +4640,16 @@ services:
             ref:
             icon: none.png
       - alibaba:
-          - name:
-            ref:
+          - name: DingTalk Meeting
+            ref: https://cn.aliyun.com/product/apsaravideo/aliyuncvc
             icon: none.png
       - huawei:
-          - name: Workspace
-            ref:
-            icon: EnterpriseAPPWorkspace.png
+          - name: Huawei CLoud WeLink
+            ref: https://www.huaweicloud.com/intl/en-us/product/welink.html
+            icon: welink.svg
+          - name: Cognitive Engagement Center (CEC)
+            ref: https://www.huaweicloud.com/intl/en-us/product/cec.html
+            icon: none.png         
   - category: Software MarketPlace
     categoryurl:
     subcategory: Cloud Marketplace
