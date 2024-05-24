@@ -2003,8 +2003,8 @@ services:
             icon: none.png
 
       - huawei:
-          - name:
-            ref:
+          - name: Huawei Cloud COC
+            ref: https://www.huaweicloud.com/product/coc.html
             icon: none.png
 
   - category: Management Tools
@@ -2196,8 +2196,8 @@ services:
             ref: https://www.alibabacloud.com/product/log-service
             icon: log-service.png
       - huawei:
-          - name:
-            ref:
+          - name: Huawei Cloud Config
+            ref: https://www.huaweicloud.com/intl/en-us/product/rms.html
             icon: none.png
 
   - category: Management Tools
@@ -2701,8 +2701,8 @@ services:
             ref: https://www.alibabacloud.com/product/certificates
             icon: SSL.png
       - huawei:
-          - name: SSL Certificate Manager
-            ref: https://www.huaweicloud.com/intl/en-us/product/scm.html
+          - name: Cloud Certificate Manager (CCM)
+            ref: https://www.huaweicloud.com/intl/en-us/product/ccm.html
             icon: ssl.png
   - category: Security, Identity & Compliance
     categoryurl:
@@ -2743,9 +2743,9 @@ services:
             ref: https://www.alibabacloud.com/product/key-management-service
             icon: ram.png
       - huawei:
-          - name:
-            ref:
-            icon: none.png
+          - name: Data Encryption Workshop (DEW)
+            ref: https://www.huaweicloud.com/intl/en-us/product/dew.html
+            icon: DEW.svg
 
   - category: Security, Identity & Compliance
     categoryurl:
@@ -4095,12 +4095,18 @@ services:
             ref: https://www.oracle.com/application-development/visual-builder-studio/
             icon: oracle.png
       - alibaba:
-          - name:
-            ref:
-            icon: none.png
+          - name: Alibaba CloudFlow
+            ref: https://www.alibabacloud.com/en/product/serverless-workflow
+            icon: none.png      
+          - name: Alibaba EventBridge
+            ref: https://www.alibabacloud.com/en/product/eventbridge
+            icon: eventbridge.png
       - huawei:
-          - name:
-            ref:
+          - name: Huawei Cloud MRS(Oozie)
+            ref: https://support.huaweicloud.com/intl/en-us/productdesc-mrs/mrs_08_00671.html
+            icon: MRS.png
+          - name: Huawei Cloud EventGrid
+            ref: https://www.huaweicloud.com/product/eventgrid.html
             icon: none.png
   - category: Mobile Services
     categoryurl:
