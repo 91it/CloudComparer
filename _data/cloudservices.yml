@@ -1539,13 +1539,16 @@ services:
             ref: https://docs.aws.amazon.com/vpc/latest/userguide/vpc-peering.html
             icon: Arch_Amazon-Virtual-Private-Cloud_64.png
       - azure:
+          - name: Virtual WAN
+            ref: https://azure.microsoft.com/en-us/products/virtual-wan/
+            icon: Virtual-WANs.svg    
           - name: Azure VNet Peering
             ref: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview
             icon: none.png
       - google:
           - name: Google VPC Peering
             ref: https://cloud.google.com/vpc/docs/vpc-peering/
-            icon: vpc.png
+            icon: none.png
       - ibm:
           - name: Transit Gateway
             ref: https://cloud.ibm.com/interconnectivity/transit/provision
