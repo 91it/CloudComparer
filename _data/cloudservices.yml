@@ -1555,13 +1555,12 @@ services:
             ref: https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/managingDRGs.htm
             icon: drg.png
       - alibaba:
-          - name:
-            ref:
+          - name: Transit Router(TR)
+            ref: https://www.alibabacloud.com/en/product/transit_router
             icon: none.png
-
       - huawei:
-          - name:
-            ref:
+          - name: Enterprise Router(ER)
+            ref: https://www.huaweicloud.com/intl/en-us/product/er.html
             icon: none.png
 
   - category: Networking & Content Delivery
