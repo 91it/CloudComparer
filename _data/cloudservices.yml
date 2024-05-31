@@ -1561,7 +1561,7 @@ services:
       - huawei:
           - name: Enterprise Router(ER)
             ref: https://www.huaweicloud.com/intl/en-us/product/er.html
-            icon: none.png
+            icon: ER.png
 
   - category: Networking & Content Delivery
     categoryurl:
