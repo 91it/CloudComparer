@@ -28,7 +28,14 @@ layout: home
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-552c144e4f497fe9"></script>
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RX9K3N1ECY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-RX9K3N1ECY');
+    </script>
 <table id="comparison">
   <tr align="center" class="header" style="position:sticky;top: 0">
 	            <th style="width:7%">Category</th>
