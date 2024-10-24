@@ -13,3 +13,21 @@ A simple comparison chart of all the cloud services offered by the major public 
 * All the definition & benefits of services mentioned in this presentation are sourced from the respective cloud providers websites and documentations.
 * For any queries or issues, please raise an issue here
 * Listing doesn't include third party services offered through cloud market places.
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RX9K3N1ECY"></script>
+<script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-RX9K3N1ECY');
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6598305f605c6c4cb91fe582773cdf3f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
