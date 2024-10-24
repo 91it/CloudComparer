@@ -135,3 +135,12 @@ layout: home
 	</tr>
 	{% endfor %}
 </table>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?6598305f605c6c4cb91fe582773cdf3f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
